@@ -16,9 +16,10 @@ public class revuplexStart implements CommandLineRunner {
 
     public static void main(String[] args) {
 
-        SpringApplication app = new SpringApplication(revuplexStart.class);
+//        SpringApplication app = new SpringApplication(revuplexStart.class);
 //        app.setWebApplicationType(WebApplicationType.NONE);  //not webapp -- tomcat 안뜸
-        app.run(args);
+//        app.run(args);
+        SpringApplication.run(revuplexStart.class, args);
     }
 
     @Override

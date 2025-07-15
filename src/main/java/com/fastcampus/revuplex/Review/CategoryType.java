@@ -1,4 +1,4 @@
-package com.fastcampus.revuplex;
+package com.fastcampus.revuplex.Review;
 
 public enum CategoryType {
         TRANSPORTATION,

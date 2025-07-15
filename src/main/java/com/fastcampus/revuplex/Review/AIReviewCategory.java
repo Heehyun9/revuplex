@@ -1,4 +1,4 @@
-package com.fastcampus.revuplex;
+package com.fastcampus.revuplex.Review;
 
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
